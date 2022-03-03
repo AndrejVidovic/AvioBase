@@ -1,0 +1,13 @@
+{
+         "id":"1",
+         "name":"Croatia airlines",
+         "ICAO":"OU",
+         "IATA":"CTN",
+         "BaseHub":"Zagreb",
+         "Founded":"20.08.1991",
+         "description":"Nacionalna avio kompanija osnovana u Hrvatskoj, vecinon leti po Europi, ali ja sad nezann sta da pisen pa moran pisat ovakve gluposti cisto da vidinn koliko teksta ce uzest ovi opis",
+         "Country":"Croatia",
+         "NumOfAircraft":"5",
+         "Avg":"17.5"
+}
+

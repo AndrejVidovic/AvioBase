@@ -1,0 +1,19 @@
+module.exports={
+    login:{
+        title:"shema za login",
+        type:"object",
+        properties:{
+            username:{
+                type:"string",
+                isNotEmpty:true,
+                minLength:1 
+            },
+            password:{
+                type:"string",
+                isNotEmpty:true,
+                minLength:1
+            }
+        },
+        required:["username","password"],
+    }
+}

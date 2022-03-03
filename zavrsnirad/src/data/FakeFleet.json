@@ -1,0 +1,98 @@
+[
+    {
+        "type_name": "A320",
+        "type_id": 1,
+        "subtypes":[
+            {
+                "aircraft_id":1,
+                "aircraft_name": "A320-285",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            },
+            {
+                "aircraft_id":2,
+                "aircraft_name": "ime2",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            },
+            {
+                "aircraft_id":3,
+                "aircraft_name": "ime3",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            },
+            {
+                "aircraft_id":4,
+                "aircraft_name": "ime4",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            }
+        ]
+    },
+    {
+        "type_name": "A350",
+        "type_id": 2,
+        "subtypes":[
+            {
+                "aircraft_id":5,
+                "aircraft_name": "ime1",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            },
+            {
+                "aircraft_id":6,
+                "aircraft_name": "ime2",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            },
+            {   "aircraft_id":7,
+                "aircraft_name": "ime3",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            },
+            {   "aircraft_id":8,
+                "aircraft_name": "ime4",
+                "aircraft_registration":"XYZ-320",
+                "aircraft_old":"17.5"
+            }
+        ]
+        
+    },
+    {
+        "type_name": "A330",
+        "type_id": 3,
+        "subtypes":[
+            {   
+                "aircraft_id":9,
+                "aircraft_name": "ime1",
+                "aircraft_registration":"XYZ-300",
+                "aircraft_old":"17.5"
+            },
+            {   
+                "aircraft_id":10,
+                "aircraft_name": "ime2",
+                "aircraft_registration":"XYZ-300",
+                "aircraft_old":"17.5"
+            },
+            {   
+                "aircraft_id":11,
+                "aircraft_name": "ime3",
+                "aircraft_registration":"XYZ-300",
+                "aircraft_old":"17.5"
+            },
+            {   
+                "aircraft_id":12,
+                "aircraft_name": "ime4",
+                "aircraft_registration":"XYZ-300",
+                "aircraft_old":"17.5"
+            }
+        ]
+    },
+    {
+        "type_name": "A380",
+        "type_id": 4,
+        "subtypes":[
+           
+        ]
+    }
+]
